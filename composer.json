@@ -1,0 +1,11 @@
+{
+    "name": "ra/spam",
+    "description": "email spam exercise",
+    "authors": [
+        {
+            "name": "Ra",
+            "email": "notmyemail@bmail.moc"
+        }
+    ],
+    "require": {}
+}
